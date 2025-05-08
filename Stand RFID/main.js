@@ -1,9 +1,7 @@
-import fs from "fs"
+let submit = document.getElementById("submit");
+let input = document.getElementById("input");
 
-fs.readFile('input.txt', 'utf8', (err,Values) => {
-    if(err){
-        throw err
-    }
-    const Value_from_input = Values;
-    console.log(Value_from_input)
-})
+submit.addEventListener("click", function() {
+    let inputValue = input.value;
+    console.log()
+});
