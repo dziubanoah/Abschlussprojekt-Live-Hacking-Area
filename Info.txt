@@ -1,0 +1,8 @@
+In diesem Repository sind alle Scripts, die für die Livehacking Area von Noah geschrieben wurden.
+
+Repositorys für ältere Versionen und weiterentwickelte Funktionen sind:
+
+https://github.com/dziubanoah/Hashcat-Frontend-with-automatic-terminal-execution-md5-attack-type-3-
+
+https://github.com/dziubanoah/SQL-Injection-Testumgebung
+
